@@ -13,11 +13,3 @@ A responsive and interactive card slider built using HTML and CSS.
 ![Card Slider Screenshot](screenshots/Screenshot-1.png)
 ![Card Slider Screenshot](screenshots/Screenshot-2.png)
 ![Card Slider Screenshot](screenshots/Screenshot-3.png)
-
-## Getting Started
-
-To get a local copy of this project up and running, follow these simple steps:
-
-1. Clone the repository:
-   ```bash
-   [git clone https://github.com/yourusername/calculator.git](https://github.com/BarathCT/HTML-CSS-JS-Calculator-.git)
