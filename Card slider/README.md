@@ -10,9 +10,9 @@ A responsive and interactive card slider built using HTML and CSS.
 
 ## Screenshots
 
-![Card Slider Screenshot](screenshots/screenshot-1.png)
-![Card Slider Screenshot](screenshots/screenshot-2.png)
-![Card Slider Screenshot](screenshots/screenshot-3.png)
+![Card Slider Screenshot](Card-slider/screenshots/screenshot-1.png)
+![Card Slider Screenshot](Card-slider/screenshots/screenshot-2.png)
+![Card Slider Screenshot](Card-slider/screenshots/screenshot-3.png)
 
 ## Getting Started
 
